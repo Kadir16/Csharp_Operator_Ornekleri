@@ -1,0 +1,16 @@
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.csproj.AssemblyReference.cache
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.AssemblyInfoInputs.cache
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.AssemblyInfo.cs
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.exe
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.deps.json
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.runtimeconfig.json
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.runtimeconfig.dev.json
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.dll
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\ref\Csharp_Operator_Orn.dll
+C:\Users\Kadir\Csharp_Operator_Orn\bin\Debug\net5.0\Csharp_Operator_Orn.pdb
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.dll
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\ref\Csharp_Operator_Orn.dll
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.pdb
+C:\Users\Kadir\Csharp_Operator_Orn\obj\Debug\net5.0\Csharp_Operator_Orn.genruntimeconfig.cache
